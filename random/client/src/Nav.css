@@ -1,0 +1,18 @@
+.wrap3 {
+  margin-top:0px;
+
+}
+
+.container-fixed {
+  display:flex;
+}
+
+nav {
+  background-color: black;
+  height: 50px;
+  color: white;
+}
+
+.dropdown-menu {
+  background-color: black;
+}

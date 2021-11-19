@@ -1,0 +1,24 @@
+
+
+.dashboard {
+  text-align: center;
+
+}
+
+.wrap4 {
+  background-image: url("vinyls.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+  padding-top:50px;
+}
+
+.wrap2 {
+  background-image: url("movietheater.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-top:50px;
+
+}

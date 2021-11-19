@@ -1,0 +1,28 @@
+
+.wrap2 {
+  background-image: url("movietheater.jpg") no-repeat center center fixed;
+  /* background-repeat: no-repeat;
+  background-attachment: fixed; */
+  background-size: cover;
+  padding-top:50px;
+  min-height: 100vh;
+  height: auto;
+}
+
+/* .wrapscroll {
+  position: relative;
+} */
+
+p {
+  background-color: rgb(0, 0, 0, .6);
+
+}
+
+.dashboard2 {
+  text-align: center;
+
+}
+
+form {
+  justify-content: center;
+}
